@@ -36,7 +36,8 @@ npx tsc archivo_typescript.ts
 Veamos el TSConfig.json
 npx tsc --init
 
-Podemos dejar un watch para que se ejecute cada vez que se modifique un archivo: npx tsc --watch
+Podemos dejar un watch para que se ejecute cada vez que se modifique un archivo:
+    npx tsc --watch
 
 Si quieres detener el “watch” para que tus archivos no estén monitoreados, presiona:
     "Ctrl + S" luego confirma con "s" y enter.
